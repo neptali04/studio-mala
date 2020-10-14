@@ -1,0 +1,11 @@
+.highlight{
+	-webkit-box-shadow: 0px 0px 5px 5px rgba(150,255,255,1)!important;
+	-moz-box-shadow: 0px 0px 5px 5px rgba(150,255,255,1)!important;
+	box-shadow: 0px 0px 5px 5px rgba(150,255,255,1)!important;
+}
+.lay-cyan{
+	color: #96FFFF;
+}
+.lay-cyan-border{
+	border-left: 4px solid #96FFFF!important;
+}
